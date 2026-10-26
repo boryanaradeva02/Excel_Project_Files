@@ -1,18 +1,25 @@
-# Sales-Analysis-Excel
-An exploratory analysis of sales data using Microsoft Excel.
-The project focuses on transforming raw sales data into meaningful business insights through data cleaning, pivot tables, KPI analysis, and interactive visualizations.
+# Excel Project Files
 
-# Main objective:
-Analyze sales performance and identify trends, patterns, and key factors affecting business results.
+This folder contains the Excel files created as part of my data analysis learning journey. Each project focuses on applying Microsoft Excel to real-world data tasks, from data preparation and analysis to visualization and reporting.
 
-# Skills demonstrated:
+## Project Components
+Depending on the project, the files may include:
+- **Raw Data** — Original datasets used for analysis.
+- **Cleaned Data** — Data prepared for accurate and consistent analysis.
+- **Data Analysis** — Excel formulas, functions, and analytical techniques used to explore datasets.
+- **Reports & KPIs** — Calculations and summaries used to evaluate performance and identify trends.
+- **Visualizations & Dashboards** — Charts and interactive dashboards used to communicate findings.
 
-Data cleaning and preparation
-Excel formulas and functions
-Data transformation
-Pivot tables and pivot charts
-KPI development
-Sales trend analysis
-Data visualization
-Dashboard creation
-Business insights and recommendations
+## Skills Demonstrated
+- Data cleaning and preparation
+- Excel formulas and functions
+- Data transformation and analysis
+- PivotTables and PivotCharts
+- KPI calculations and reporting
+- Data visualization and dashboard creation
+- Analytical thinking and problem-solving
+
+## Tools
+- Microsoft Excel
+- 
+Hope you enjoy my Excel learning journey! :) 
